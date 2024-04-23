@@ -1,0 +1,19 @@
+<svg width="109" height="106" viewBox="0 0 109 106" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Button Add">
+<g id="background" filter="url(#filter0_d_1_493)">
+<path d="M20 5H73.8921C82.1763 5 88.8921 11.7157 88.8921 20V56C88.8921 64.2843 82.1763 71 73.8921 71H35C26.7157 71 20 64.2843 20 56V5Z" fill="#2C2D5B"/>
+</g>
+<path id="Union" fill-rule="evenodd" clip-rule="evenodd" d="M54.446 28C54.0318 28 53.696 28.3358 53.696 28.75V37.25H45.196C44.7818 37.25 44.446 37.5858 44.446 38C44.446 38.4142 44.7818 38.75 45.196 38.75H53.696V47.25C53.696 47.6642 54.0318 48 54.446 48C54.8603 48 55.196 47.6642 55.196 47.25V38.75H63.696C64.1103 38.75 64.446 38.4142 64.446 38C64.446 37.5858 64.1103 37.25 63.696 37.25H55.196V28.75C55.196 28.3358 54.8603 28 54.446 28Z" fill="white"/>
+</g>
+<defs>
+<filter id="filter0_d_1_493" x="0" y="0" width="108.892" height="106" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="15"/>
+<feGaussianBlur stdDeviation="10"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.384314 0 0 0 0 0.235294 0 0 0 0 0.905882 0 0 0 0.35 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_493"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_493" result="shape"/>
+</filter>
+</defs>
+</svg>
